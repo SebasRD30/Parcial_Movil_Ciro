@@ -1,0 +1,92 @@
+[
+{
+    "nombre" : "España",
+    "descripcion" : "España es un país situado en Europa Occidental, en la península ibérica. Su territorio está organizado en 17 comunidades autónomas.",
+    "id" : "1",
+    "imagen" : "españa.png"
+    },
+{
+    "nombre": "Francia",
+    "descripcion": "Francia es un país soberano, miembro de la Unión Europea, constituido en Estado social y democrático de derecho y cuya forma de gobierno es la república semipresidencialista.",
+    "id": "2",
+    "imagen": "francia.webp"
+    },
+{
+    "nombre": "Alemania",
+    "descripcion": "Alemania es un país soberano centroeuropeo, miembro de la Unión Europea, constituido en Estado social y democrático de derecho y cuya forma de gobierno es la república parlamentaria.",
+    "id": "3",
+    "imagen": "alemania.png"
+    },
+{
+    "nombre": "Italia",
+    "descripcion": "Italia es un país soberano miembro de la Unión Europea. Es un país bicontinental, ya que su territorio está en Europa del Sur y en el norte de África.",
+    "id": "4",
+    "imagen": "italia.png"
+    },
+{
+    "nombre": "Reino Unido",
+    "descripcion": "El Reino Unido de Gran Bretaña e Irlanda del Norte, conocido como Reino Unido, es un país soberano e insular ubicado al noroeste de la Europa continental.",
+    "id": "5",
+    "imagen": "reino unido.png"
+    },
+{
+    "nombre": "Países Bajos",
+    "descripcion": "Países Bajos es un país constituyente del Reino de los Países Bajos, miembro de la Unión Europea.",
+    "id": "6",
+    "imagen": "holanda.png"
+    },
+{
+    "nombre": "Bélgica",
+    "descripcion": "Bélgica es un país soberano, miembro de la Unión Europea, situado en el noroeste europeo.",
+    "id": "7",
+    "imagen": "belgica.png"
+    },
+{
+    "nombre": "Suiza",
+    "descripcion": "Suiza es un país sin litoral situado en el centro de Europa y cuenta con una gran diversidad de paisajes.",
+    "id": "8",
+    "imagen": "suiza.png"
+    },
+{
+    "nombre": "Suecia",
+    "descripcion": "Suecia es un país escandinavo de Europa del Norte que forma parte de la Unión Europea.",
+    "id": "9",
+    "imagen": "suecia.png"
+    },
+{
+    "nombre": "Noruega",
+    "descripcion": "Noruega es un país de Europa del Norte que forma parte de la península escandinava.",
+    "id": "10",
+    "imagen": "noruega.webp"
+    },
+{
+    "nombre": "Dinamarca",
+    "descripcion": "Dinamarca es un país soberano miembro de la Unión Europea situado en el norte de Europa.",
+    "id": "11",
+    "imagen": "dinamarca.png"
+    },
+{
+    "nombre": "Finlandia",
+    "descripcion": "Finlandia es un país soberano miembro de la Unión Europea situado en el norte de Europa.",
+    "id": "12",
+    "imagen": "finlandia.png"
+    },
+{
+    "nombre": "Portugal",
+    "descripcion": "Portugal es un país soberano miembro de la Unión Europea.",
+    "id": "13",
+    "imagen": "cr7.png"
+    },
+{
+    "nombre": "Austria",
+    "descripcion": "Austria es un país soberano miembro de la Unión Europea.",
+    "id": "14",
+    "imagen": "austria.png"
+    },
+{
+    "nombre": "Polonia",
+    "descripcion": "Polonia es un país soberano miembro de la Unión Europea.",
+    "id": "15",
+    "imagen" : "polonia.png"
+    }
+]
